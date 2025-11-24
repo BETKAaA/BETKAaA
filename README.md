@@ -7,18 +7,21 @@
 </a>
 
 <a href="https://github.com/BETKAaA"> 
-<img width="1470" height="20" alt="cap-opacity-0" src="https://github.com/user-attachments/assets/4156d44e-5697-4c3c-8ca2-23075a285698" />
+<img width="1470" height="20" alt="cap-opacity-0" src="https://github.com/user-attachments/assets/81e21f1c-0c3c-419c-b199-6a28519c6b7f" />
+
 </a>
 
 <p align="center">
 <a href="https://github.com/BETKAaA"> 
-  <img width="5000" height="680" alt="cap" href="https://github.com/BETKAaA" src="https://github.com/user-attachments/assets/9c83098f-da38-467f-a38a-e5545bac8f49" /> 
+<img width="5000" height="680" alt="LENTOCHKA" src="https://github.com/user-attachments/assets/55a509d1-3bed-4816-a508-3b50d721c861" />
+
 </a>
 </p>
   
 <p align="center">
 <a href="https://github.com/BETKAaA"> 
-  <img width="564" height="564" alt="doll" href="https://github.com/BETKAaA" src="https://github.com/user-attachments/assets/535ce39d-3965-4b87-b9e6-ca3f2ae9e596" /> 
+<img width="564" height="564" alt="IMG_3005 (2)" src="https://github.com/user-attachments/assets/5900e02f-b3ac-4566-96cb-f3f362227676" />
+
 </a>
 </p>
 
@@ -29,13 +32,15 @@
 </p>
 
 <a href="https://github.com/BETKAaA"> 
-<img width="1470" height="40" alt="cap-opacity-0" src="https://github.com/user-attachments/assets/4156d44e-5697-4c3c-8ca2-23075a285698" />
+<img width="1470" height="40" alt="cap-opacity-0" src="https://github.com/user-attachments/assets/81e21f1c-0c3c-419c-b199-6a28519c6b7f" />
+
 </a>
 
 [![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31z45xfxpt2lljhtqofyyrsudpj4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false)](https://github.com/BETKAaA)
 
 <p align="center">
 <a href="https://github.com/BETKAaA"> 
-  <img width="5000" height="680" alt="cap" src="https://github.com/user-attachments/assets/10929276-9e81-481a-b990-f8773e217b72" /> 
+<img width="5000" height="680" alt="LENTOCHKADOWN" src="https://github.com/user-attachments/assets/a53ae656-9182-4450-997f-2b86e4122018" />
+
 </a>
 </p>
