@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/BETKAaA"> 
-  <img width="100" height="50" src="https://komarev.com/ghpvc/?username=BETKAaA&style=plastic&color=e3bfd4&label=viewed+<3"/> 
+  <img width="100" height="10" src="https://komarev.com/ghpvc/?username=BETKAaA&style=plastic&color=e3bfd4&label=viewed+<3"/> 
 </a>
 
 <a href="https://github.com/BETKAaA"> 
