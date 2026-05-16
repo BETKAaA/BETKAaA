@@ -28,7 +28,7 @@
 <p align="center"> $\color{#ffeef8}{\textbf{links}}$
 
 <p style="text-align: center;">
-  <a href="[(https://pronouns.cc/@BETK4A)"><img src="https://img.shields.io/badge/pronouns-2E3440?style=flat&logoColor=white&color=FFFFFF" alt="pronouns" /></a>   <a href="https://betka.atabook.org/"><img src="https://img.shields.io/badge/atabook-2E3440?style=flat&logoColor=white&color=FFFFFF" alt="atabook"/></a>   <a href="https://betka.straw.page/"><img src="https://img.shields.io/badge/straw-2E3440?style=flat&logoColor=white&color=FFFFFF" alt="atabook"/></a>
+  <a href="https://pronouns.cc/@BETK4A"><img src="https://img.shields.io/badge/pronouns-2E3440?style=flat&logoColor=white&color=FFFFFF" alt="pronouns" /></a>   <a href="https://betka.atabook.org/"><img src="https://img.shields.io/badge/atabook-2E3440?style=flat&logoColor=white&color=FFFFFF" alt="atabook"/></a>   <a href="https://betka.straw.page/"><img src="https://img.shields.io/badge/straw-2E3440?style=flat&logoColor=white&color=FFFFFF" alt="atabook"/></a>
 </p>
 
 <a href="https://github.com/BETKAaA"> 
