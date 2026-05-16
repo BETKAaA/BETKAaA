@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/BETKAaA"> 
-<img width="5000" height="680" alt="LENTOCHKADOWN" src="https://github.com/user-attachments/assets/a53ae656-9182-4450-997f-2b86e4122018" />
+<img width="5000" height="1680" alt="LENTOCHKADOWN" src="https://github.com/user-attachments/assets/a53ae656-9182-4450-997f-2b86e4122018" />
 
 </a>
 </p>
