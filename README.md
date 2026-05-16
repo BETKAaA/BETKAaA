@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://github.com/BETKAaA"> 
-<img width="9000" height="680" alt="LENTOCHKA" src="https://github.com/user-attachments/assets/55a509d1-3bed-4816-a508-3b50d721c861" />
+<img width="5000" height="680" alt="LENTOCHKA" src="https://github.com/user-attachments/assets/55a509d1-3bed-4816-a508-3b50d721c861" />
 
 </a>
 </p>
@@ -40,7 +40,7 @@
 
 <p align="center">
 <a href="https://github.com/BETKAaA"> 
-<img width="9000" height="680" alt="LENTOCHKADOWN" src="https://github.com/user-attachments/assets/a53ae656-9182-4450-997f-2b86e4122018" />
+<img width="5000" height="680" alt="LENTOCHKADOWN" src="https://github.com/user-attachments/assets/a53ae656-9182-4450-997f-2b86e4122018" />
 
 </a>
 </p>
